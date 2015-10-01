@@ -1,2 +1,1 @@
-# calli.tech
-CalliTech Webpage
+# CalliTech Webpage
